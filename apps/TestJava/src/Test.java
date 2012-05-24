@@ -8,6 +8,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println();
 		 System.getProperties().list(System.out);
+		 System.out.println("updateto");
 	}
 
 }
